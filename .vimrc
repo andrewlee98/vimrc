@@ -1,3 +1,6 @@
+" https://github.com/tpope/vim-pathogen
+" https://github.com/scrooloose/nerdtree
+
 set number
 
 syntax enable
